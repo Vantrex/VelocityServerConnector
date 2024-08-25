@@ -1,0 +1,4 @@
+direct-connect=true
+direct-connect-server-address="test.example.de:25565"
+cookie-name="luneshine:transfer"
+bungee-channel-name="luneshine:transfer:manual"
